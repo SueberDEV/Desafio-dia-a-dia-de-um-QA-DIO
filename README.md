@@ -4,8 +4,7 @@
   </h1>
   
   <p align="right">
-    <a href="https://github.com/dayane-rosas/java-anatomia-classes/blob/main/ezgif.com-gif-maker.gif"> </a>
-    <img src="ezgif.com-gif-maker.gif" width="200">
+    <a href="[https://github.com/dayane-rosas/java-anatomia-classes/blob/main/ezgif.com-gif-maker.gif](https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/blob/main/giphy200.gif)"> </a>
     
 <div align='left'>
   <b> 🎉 Seja bem-vindo ao desafio Dia a Dia de um QA </b>
