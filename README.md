@@ -2,9 +2,9 @@
   <h1 align="left">
   :trollface: Hello, whats up Guys?  Eu sou o Suéber :trollface:
   </h1>
+
   
-  <p align="right">
-    <a href="https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/blob/main/giphy200.gif"> </a>
+  ![Texto Alternativo](https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/blob/main/giphy200.gif)
     
 <div align='left'>
   <b> 🎉 Seja bem-vindo ao desafio Dia a Dia de um QA </b>
