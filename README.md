@@ -1,6 +1,6 @@
 <div>
   <h1 align="left">
-  :trollface: Hello, whats up Guys?  Eu sou o [u]Suéber[/u] :trollface:
+  :trollface: Hello, whats up Guys?  Eu sou o Suéber :trollface:
   </h1>
   
   <p align="right">
