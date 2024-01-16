@@ -18,11 +18,13 @@
 - 
   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/1-Plano%20e%20fluxo%20de%20trabalho%20%E2%80%93%20Projeto%20SwagLabsShopping'>Plano e fluxo de trabalho – Projeto SwagLabsShopping
 </a>
-  - <a href='[https://github.com/dayane-rosas/O-dia-a-dia-de-um-QA/tree/main/Desafio-Dia-a-Dia-de-um-QA/2-Mind-map%20da%20user%20story%20Login](https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/2%20-Fluxo%20de%20vida%20de%20um%20BUG%20%E2%80%93%20Projeto%20SwagLabsShopping)'>Fluxo de vida de um BUG </a>
-  - <a href='https://github.com/dayane-rosas/O-dia-a-dia-de-um-QA/tree/main/Desafio-Dia-a-Dia-de-um-QA/3-User%20Story%20e%20Casos%20de%20Testes-steb%20by%20step%20e%20BDD'>User Story e Casos de Testes-step by step e BDD</a>
-  - <a href='https://github.com/dayane-rosas/O-dia-a-dia-de-um-QA/tree/main/Desafio-Dia-a-Dia-de-um-QA/4-Script%20BDD%20-%20Gherkin'>Script BDD - Gherkin</a>
+  - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/2%20-Fluxo%20de%20vida%20de%20um%20BUG%20%E2%80%93%20Projeto%20SwagLabsShopping'>Fluxo de vida de um BUG </a>
+  - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/3-Mind%20Map%20User%20story%20Login%20%E2%80%93%20Projeto%20SwagLabsShopping'>Mind Map User story Login</a>
+  - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/4-User%20Story%20%E2%80%93%20Projeto%20SwagLabsShopping'>User Story</a>
+   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/5-Caso%20de%20teste%20-%20Step%20by%20step%20%E2%80%93%20Projeto%20SwagLabsShopping'>Caso de teste - Step by step</a>
+    - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/6-Caso%20de%20teste%20-%20Script%20BDD%20%E2%80%93%20Projeto%20SwagLabsShopping'>Caso de teste - Script BDD</a>
   
-<b> ⭐️ Sistema analisado:</b>
+<b> 🎓 Sistema analisado:</b>
   
    - <a href="https://www.saucedemo.com/">SwagLabs</a>
   
