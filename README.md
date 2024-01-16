@@ -15,7 +15,6 @@
     Este repositório possui arquivos do desafio prático Dia a Dia de um QA do <b>Formação Quality Assurance (QA) Experience </b>, solicitado pela Instrutora: <b>Carolina Santana Louzada</b>.</p>
     
 - Logo abaixo se encontram os documentos produzidos no processo de estudo:
-- 
   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/1-Plano%20e%20fluxo%20de%20trabalho%20%E2%80%93%20Projeto%20SwagLabsShopping'>Plano e fluxo de trabalho – Projeto SwagLabsShopping
 </a>
   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/2%20-Fluxo%20de%20vida%20de%20um%20BUG%20%E2%80%93%20Projeto%20SwagLabsShopping'>Fluxo de vida de um BUG </a>
